@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bd_wal">
+        <item>0000011306</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="bq_ru">
+        <item>0000011328</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="cas_tr">
+        <item>0000010983</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="cel_tn">
+        <item>z0010088</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="clf_ph">
+        <item>0000011241</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="knb_mm">
+        <item>0000011227</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="mcl_mtn_za">
+        <item>0000011057</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="mcl_za">
+        <item>0000011057</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="oys_ru">
+        <item>0000011299</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="qmb_pk">
+        <item>Z0010037</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="sma_ir">
+        <item>0000010997</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="trunk">
+        <item>0000001000</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="wik_du">
+        <item>0000005051</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="wik_fk">
+        <item>0000006000</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="wik_id">
+        <item>0000011097</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="wik_my">
+        <item>0000011265</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="wik_th">
+        <item>0000011094</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+    <string-array name="wik_vn">
+        <item>0000011095</item>
+        <item>http://eservice.tinno.com/eservice/stsReport?reptype=report</item>
+    </string-array>
+</resources>

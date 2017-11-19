@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources module="platform" configVersion="1.0.0.0" requirementsVersion="0.1">
+
+    <!-- 1. client_no -->
+    <feature id = "xxxxx" title="client_no" >
+        <string name="client_no" value="0000011306"></string>
+    </feature>
+    <!-- 4. host_url --><!-- sts hosturl:  http://eservice.tinno.com/eservice/stsReport?reptype=report   or  http://eservice.euwiko.com:8080/euwiko/stsReport?reptype=report -->
+    <feature id = "xxxxx" title="host_url" >
+        <string name="host_url" value="http://eservice.tinno.com/eservice/stsReport?reptype=report"></string>
+    </feature>
+</resources>
+
